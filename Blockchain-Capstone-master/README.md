@@ -45,12 +45,12 @@ Go to root project folder after cloning into local drives and run following comm
     > Truffle migrate --network rinkeby
 
 # Rinkeby Deployed Project Details
-* 1)  Deploying 'Verifier'
+ 1)  Deploying 'Verifier'
    --------------------
     transaction hash:    0x6d0ac8e23acbbf86b802ead756041183031752c5e3af4fdca2ca6a66504affac
     Blocks: 1            Seconds: 9
     contract address:    0xf2CfFDA7a1377f90b8ca328549229c23690e3224
-* 2) Deploying 'SolnSquareVerifier'
+ 2) Deploying 'SolnSquareVerifier'
    ------------------------------
     transaction hash:    0x90aadf4668c825aa2b5e34b7b783cd9a4208ffee81038159c5291b3dc72425e8
     Blocks: 0            Seconds: 5
@@ -67,19 +67,19 @@ Go to root project folder after cloning into local drives and run following comm
 
 * Marketplace Seller: 0xCaD33Ab2D17f270EFA7Df727e0Ef6343cC938d19
 * Tokens with buyer:
-* https://testnets.opensea.io/assets/0xa88d84aeb054bd80043f218108e83424537b221e/6
-* https://testnets.opensea.io/assets/0xa88d84aeb054bd80043f218108e83424537b221e/7
-* https://testnets.opensea.io/assets/0xa88d84aeb054bd80043f218108e83424537b221e/8
-* https://testnets.opensea.io/assets/0xa88d84aeb054bd80043f218108e83424537b221e/9
-* https://testnets.opensea.io/assets/0xa88d84aeb054bd80043f218108e83424537b221e/10
+        * https://testnets.opensea.io/assets/0xa88d84aeb054bd80043f218108e83424537b221e/6
+        * https://testnets.opensea.io/assets/0xa88d84aeb054bd80043f218108e83424537b221e/7
+        * https://testnets.opensea.io/assets/0xa88d84aeb054bd80043f218108e83424537b221e/8
+        * https://testnets.opensea.io/assets/0xa88d84aeb054bd80043f218108e83424537b221e/9
+        * https://testnets.opensea.io/assets/0xa88d84aeb054bd80043f218108e83424537b221e/10
 
 * Marketplace Buyer: 0xe3DDfD42dA9010b13BFC063d53D28ba43E0b9d3b
 * Tokens with Seller:
-* https://testnets.opensea.io/assets/0xa88d84aeb054bd80043f218108e83424537b221e/5
-* https://testnets.opensea.io/assets/0xa88d84aeb054bd80043f218108e83424537b221e/1
-* https://testnets.opensea.io/assets/0xa88d84aeb054bd80043f218108e83424537b221e/2
-* https://testnets.opensea.io/assets/0xa88d84aeb054bd80043f218108e83424537b221e/3
-* https://testnets.opensea.io/assets/0xa88d84aeb054bd80043f218108e83424537b221e/4
+        * https://testnets.opensea.io/assets/0xa88d84aeb054bd80043f218108e83424537b221e/5
+        * https://testnets.opensea.io/assets/0xa88d84aeb054bd80043f218108e83424537b221e/1
+        * https://testnets.opensea.io/assets/0xa88d84aeb054bd80043f218108e83424537b221e/2
+        * https://testnets.opensea.io/assets/0xa88d84aeb054bd80043f218108e83424537b221e/3
+        * https://testnets.opensea.io/assets/0xa88d84aeb054bd80043f218108e83424537b221e/4
 
 # Project Tasks
 * Clone the project repository -                                                                                                  Completed
@@ -99,7 +99,7 @@ Go to root project folder after cloning into local drives and run following comm
 * Test and Verify OpenSea with your SolnSquareVerifier tokens	                                                                  Completed
 * Complete required documentation and submit	                                                                                  Completed
 
-# ******************************** Note : All screenshots of the above task are present in Snips.odf file *******************************
+# ********* Note : All screenshots of the above tasks are present in Snips.df file *********
 
 # Project Resources
 * [Remix - Solidity IDE](https://remix.ethereum.org/)
